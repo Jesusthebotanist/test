@@ -1,39 +1,34 @@
 # Ahn et al. 2013 Garlic Transformation 
-This is the transformation protocol according to Ahn et al. 2013 
+___
+This is the draft lab protocol for garlic transformation according to Ahn et al. 2013. 
+Last updated: Oct 17th 2019
+Author: Jesus Martinez-Gomez
 
 # Solutions and Chemicals 
+___
 * Bleach solution  
 	* 25% (v/v) commercial Bleach Clorox (4% hypochlorite) 
-
 * LB liquid medium
 	* 10 g/L Tryptone
 	*  5 g/L yeast extract
 	*  5 g/L NaCL
-
 * LS medium (according to Linsmaier and Skoog 1965)
-
 * MS Medium (According to Murashige and Skoog 1962)
-
 * Callis Induction MS medium 
 	* MS medium 
 	* 1.0 mg/L 2,4-D 
 	* 0.2m g/L IAA 
-
 * Half Strength N6 solution ( according to Chu et al. 1975)
-
 * Co Cultivation medium
 	* Half-strength N6 solution 
 	* 1   mM MES
 	* 200 mg/L L-cysteine,
 	* 100 mg/L DTT 
-
 * Acetosyringone (3',5'-dimethoxy-4'-hydroxyacetophenone)
-
 * Antibiotic water 
 	* Steralized water
 	* 100 mg/L vancomycin 
 	* 200 mg/L cefotaxime
-
 * Selection MS medium 
 	* MS medium
 	*   1.0  mg/L 2,4-D  
@@ -41,19 +36,17 @@ This is the transformation protocol according to Ahn et al. 2013
 	*  25.0  mg/L hygromycin
 	* 100.0  mg/L vancomycin
 	* 200.0  mg/L cefotaxime
-
 * Regeneration MS medium
 	* MS medium  
 	*  5  mg/L kinetin 
 	*  1  mg/L NAA supplemented 
 	* 25  mg/L hygromycine 
-
 * Hormone free MS medium 
 	* MS medium
 	* 25 mg/L hygromycine
 
 # Protocol
-
+___
 ## Clove Steralization (time: 4 weeks)
 1. Break up bulb into individual cloves 
 2. Disinfected clove with bleach solution
@@ -92,12 +85,9 @@ This is the transformation protocol according to Ahn et al. 2013
 4. Transfer to soil
 
 # References
+___
 * Ahn, Yul-Kyun, Moo-Kyoung Yoon, and Jong-Seong Jeon. "Development of an efficient Agrobacterium-mediated transformation system and production of herbicide-resistant transgenic plants in garlic (Allium sativum L.)." Molecules and cells 36.2 (2013): 158-162.
-
 * Ayabe, M., and S. Sumi. "Establishment of a novel tissue culture method, stem-disc culture, and its practical application to micropropagation of garlic (Allium sativum L.)." Plant Cell Reports 17.10 (1998): 773-779.
-
 * Chih-Ching, Chu, et al. "Establishment of an efficient medium for anther culture of rice through comparative experiments on the nitrogen sources." Scientia sinica 18.5 (1975): 659-668.
-
 * Linsmaier, Elfriede M., and Folke Skoog. "Organic growth factor requirements of tobacco tissue cultures." Physiologia plantarum 18.1 (1965): 100-127.
-
 * Murashige, Toshio, and Folke Skoog. "A revised medium for rapid growth and bio assays with tobacco tissue cultures." Physiologia plantarum 15.3 (1962): 473-497.
