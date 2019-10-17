@@ -1,7 +1,7 @@
 # Ahn et al. 2013 Garlic Transformation 
+This is the transformation protocol according to Ahn et al. 2013 
 
-
-# Solutions/Chemicals 
+# Solutions and Chemicals 
 * Bleach solution  
 	* 25% (v/v) commercial Bleach Clorox (4% hypochlorite) 
 
@@ -27,7 +27,7 @@
 	* 200 mg/L L-cysteine,
 	* 100 mg/L DTT 
 
-* 100 uM acetosyringone (3',5'-dimethoxy-4'-hydroxyacetophenone)
+* Acetosyringone (3',5'-dimethoxy-4'-hydroxyacetophenone)
 
 * Antibiotic water 
 	* Steralized water
@@ -41,7 +41,6 @@
 	*  25.0  mg/L hygromycin
 	* 100.0  mg/L vancomycin
 	* 200.0  mg/L cefotaxime
-
 
 * Regeneration MS medium
 	* MS medium  
@@ -67,10 +66,10 @@
 9. Place on LS medium petri dishes
 10. Incubate at 25C under 16h photoperiod with fluorescent illumination at 3000 lux
 
-## Callus Induction  (Lenght time: 2 months)
+## Callus Induction  (time: 2 months)
 1. Induce callus from root segments of in vitro plantlets on Callis Induction MS medium for 2 months 
 
-## Agrobacterium Co-cultivation (Lenght time: 4 days)
+## Agrobacterium Co-cultivation (time: 4 days)
 1. Shake Agrobacterium cells LB liquid medium supplemented with 10mg/L hygromycine at 120rpm for 2 days at 28C 
 2. Spin bacteria down
 3. Suspend cells in co-cultivation medium (OD600 = 1.0) with 100 uM acetosyringone (3',5'-dimethoxy-4'-hydroxyacetophenone)
@@ -78,7 +77,7 @@
 5. Transfer calli to co-cultivation medium with removal of the Agrobacterium cells [Unsure what this means?]
 6. Culture cali in the dark for 4 days at 25C
 
-## Selection of Transgenic Calli (Lenght time: 12 weeks)
+## Selection of Transgenic Calli (time: 12 weeks)
 1. Wash tissue with antibiotic water 
 2. Place tissue on selection MS medium 
 3. Grow in darkness at 25 C for for weeks
@@ -86,12 +85,11 @@
 5. Subculture one more time (12 weeks total)
 6. Excise sGFP-expression pieces and transfer to fresh media (See Figure 2)
 
-## Plant Regeneration (Lenght time: 2-6 weeks)
+## Plant Regeneration (time: 2-6 weeks)
 1. Transfer actively growing growing cali to Regeneration MS medium and incubate at 25C under continuous light (40 umol/m^2/s)
 2. Plants will regenerate in 2-6 weeks
 3. Transfer regenerated plantlets to hormone free MS medium 
 4. Transfer to soil
-
 
 # References
 * Ahn, Yul-Kyun, Moo-Kyoung Yoon, and Jong-Seong Jeon. "Development of an efficient Agrobacterium-mediated transformation system and production of herbicide-resistant transgenic plants in garlic (Allium sativum L.)." Molecules and cells 36.2 (2013): 158-162.
@@ -103,6 +101,3 @@
 * Linsmaier, Elfriede M., and Folke Skoog. "Organic growth factor requirements of tobacco tissue cultures." Physiologia plantarum 18.1 (1965): 100-127.
 
 * Murashige, Toshio, and Folke Skoog. "A revised medium for rapid growth and bio assays with tobacco tissue cultures." Physiologia plantarum 15.3 (1962): 473-497.
-
-
-
